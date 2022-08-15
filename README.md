@@ -1,3 +1,3 @@
 # gitrepo
 hey there..!
-i explore my knowledge.
+i want to explore my knowledge.
